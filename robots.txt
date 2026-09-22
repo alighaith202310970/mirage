@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alighaith202310970.github.io/mirage/sitemap.xml
+Sitemap: https://crazywebbyali.github.io/mirage/sitemap.xml
